@@ -1,0 +1,7 @@
+intake
+hvplot
+cartopy
+holoviews
+geoviews
+matplotlib
+
